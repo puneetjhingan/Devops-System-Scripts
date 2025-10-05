@@ -16,10 +16,11 @@ A collection of useful DevOps automation and system health monitoring scripts wr
 
 ├── LICENSE
 ├── linux-scripts
-│   └──
+│   └── system-health-check.sh
 ├── python-scripts
-│   └── 
+│   └── system-health-check-python
 └── README.md
+
 
 
 ---
