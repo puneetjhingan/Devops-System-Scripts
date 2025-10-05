@@ -14,9 +14,11 @@ A collection of useful DevOps automation and system health monitoring scripts wr
 
 ## Folder Structure
 
-├── linux-scripts/ 
-├── python-scripts/ 
-└── README.md # Project overview and usage instructions
+├── LICENSE
+├── linux-scripts
+├── python-scripts
+└── README.md
+
 ---
 
 ## Getting Started with Python 3 in VS Code
