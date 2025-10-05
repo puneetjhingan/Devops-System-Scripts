@@ -47,10 +47,10 @@ A collection of useful DevOps automation and system health monitoring scripts wr
    - Ensure there is a `requirements.txt` file inside `python-scripts/` with the necessary packages, like:
    - Then install them with:
      ```bash
-        pip install -r python-scripts/requirements.txt ```
+        pip install -r python-scripts/requirements.txt 
 6. Run your Python scripts inside the VS Code terminal:
       ```bash
-          python python-scripts/your-script.py```
+          python python-scripts/your-script.py
 
 ---
 Happy Automating! 🚀
