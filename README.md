@@ -14,8 +14,8 @@ A collection of useful DevOps automation and system health monitoring scripts wr
 
 ## Folder Structure
 
-├── linux-scripts/ # Shell scripts for Linux system management and automation
-├── python-scripts/ # Python-based system health and automation scripts
+├── linux-scripts/ 
+├── python-scripts/ 
 └── README.md # Project overview and usage instructions
 ---
 
